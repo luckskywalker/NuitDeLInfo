@@ -30,15 +30,16 @@
     </div>
   </div>
   </div>
-  <div>
+  <div id="How">
+
   </div>
   <div id="Prem">
     <img src="css/premunir.jpg" alt="se premunir" class="img-thumbnail">
   </div>
   <div id="Symp" class="container">
     <div class="row  text-center">
-<img src="css/symp.jpg" alt="se premunir" class="img-thumbnail ">
-</div>
+  <img src="css/symp.jpg" alt="se premunir" class="img-thumbnail ">
+  </div>
     <h5 class="text-center f13">Quel est le traitement général de la maladie ?</h5>
 <p class="text-center f13">
 Pour la majorité des malades pris en charge, l'équipe médicale tente de lutter contre les symptômes de la fièvre hémorragique. En s'attaquant à la fièvre et à la diarrhée et en réhydratant le patient, notamment par le biais de transfusions sanguines, l'organisme du patient est en mesure de développer une réponse immunitaire.
@@ -51,7 +52,7 @@ En savoir plus sur http://www.lemonde.fr/les-decodeurs/article/2014/08/22/guerir
   </p>
   </div>
 
-<div class="">
+<div class="footer ni-navbar">
 
 
 </div>
