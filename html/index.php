@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NUIT DE L'INFO</title>
-    <link rel="stylesheet" type="text/css" href="/home.css">
+    <link rel="stylesheet" type="text/css" href="css/home.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
     </script>
     <script src="http://tympanus.net/Development/Arctext/js/jquery.arctext.js"></script>
